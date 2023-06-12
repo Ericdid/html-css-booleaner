@@ -1,0 +1,68 @@
+
+.logo-background{
+    background-color: rgb(77, 158, 233);
+    height: 170px;
+    background-image: url(./img/pattern.png);
+    position: relative;
+}
+
+.logo-text{
+    height: 60px;
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+}
+header{
+    line-height: 0;
+    text-align: center;
+}
+main > p{
+    text-align: center;
+}
+.placeholder{
+    color: rgba(100, 100, 100, .8);
+}
+#owner{
+    color: rgb(0, 119, 255);
+}
+.info{
+    font-size: small;
+}
+
+.warning{
+    background-color: yellow;
+}
+table{
+    width: 100%;
+    text-align: left;
+    
+}
+thead{
+    background-color: rgb(0, 119, 255);
+    color: white;
+}
+th{
+    width: 150px;
+}
+
+.sky{
+    background-color: rgba(1, 170, 248, 0.4);
+}
+footer{
+    color: white;
+    text-align: center;
+}
+.firstitem{
+    background-image: url(./img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: calc(50% - 150px);
+}
+.seconditem{
+    background-image: url(./img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: calc(50% - 150px);
+}
