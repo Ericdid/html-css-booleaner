@@ -27,3 +27,22 @@ header{
 .info{
     font-size: small;
 }
+.warning{
+    background-color: yellow;
+}
+table{
+    width: 100%;
+    text-align: left;
+    
+}
+thead{
+    background-color: rgb(0, 119, 255);
+    color: white;
+}
+th{
+    width: 150px;
+}
+
+.sky{
+    background-color: rgba(1, 170, 248, 0.4);
+}
