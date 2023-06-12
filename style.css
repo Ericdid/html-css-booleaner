@@ -19,7 +19,7 @@ header{
     line-height: 0;
 }
 .placeholder{
-    color: rgba(100, 100, 100, .7);
+    color: rgba(100, 100, 100, .8);
 }
 #owner{
     color: rgb(0, 119, 255);
@@ -45,4 +45,19 @@ th{
 
 .sky{
     background-color: rgba(1, 170, 248, 0.4);
+}
+footer{
+    color: white;
+}
+.firstitem{
+    background-image: url(./img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
+.seconditem{
+    background-image: url(./img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
 }
